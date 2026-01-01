@@ -1,82 +1,84 @@
 <div align="center">
-  <h1>Hi there, I'm Jash! 👋</h1>
-  <h3>Computer Science Student | Web Developer | Software Enthusiast</h3>
 
-  <p>
-    I am a Computer Science student with a strong interest in building <b>real-world software solutions</b>.<br>
-    I focus on <b>web development, automation tools, and practical applications</b> that solve actual business problems.
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Jash%20Chothani&fontAlign=50&fontAlignY=35&fontSize=60&color=0:FF0080,50:7928CA,100:FF8C00&fontColor=ffffff&animation=fadeIn" />
 
-  <p>
-    <a href="mailto:jashthakkar77@gmail.com">
-      <img src="https://img.shields.io/badge/Email-jashthakkar77%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/jash-chothani-90422a316">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+<h3>
+  🚀 Computer Science Student · Web Developer · Software Builder
+</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Building+Production-Ready+Software;Solving+Real+Business+Problems;Ranked+6th+in+National+Hackathon" alt="Typing SVG" />
+
+<br/>
+
+<p>
+  <a href="mailto:jashthakkar77@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jash-chothani-90422a316">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jashchothani">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
 ---
 
-## 🛠️ Technical Skills
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+## 🏆 Key Highlight
 
-- **Focus Areas:** Responsive Web Design, Email Automation, REST APIs, Desktop Applications.
+<a href="#">
+  <img src="https://img.shields.io/badge/🏆_Hack4Us_National_Hackathon-6th_Rank_(Top_1%25)-FFD700?style=for-the-badge" alt="Achievement" />
+</a>
+<br>
+<b>Maharaja Surajmal Institute, New Delhi</b><br>
+<i>Delivered a winning solution among 553 participants.</i>
+
+</div>
 
 ---
 
-## 🏆 Key Achievements
+## 🛠️ Technical Stack
 
-### 🥇 **6th Rank out of 553 Participants**
-> **Event:** Hack4Us (MSI, New Delhi)
-> *Achieved top-tier ranking in a highly competitive national hackathon.*
+<div align="center">
 
-* 💼 **Production Software:** Built and deployed live software for a real chemical company (Swastik Chemical).
-* 🧠 **Hackathon Finalist:** Active participant in College IT Department Hackathons.
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,mysql,git,vscode,postman,idea&theme=dark" />
+
+<br><br>
+<b>Focus Areas:</b><br>
+Real-time Systems • Business Automation • Production Web Apps • REST APIs
+
+</div>
+
+---
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [Swastik Chemical India – Official Website](https://github.com/jashchothani/Swastikchemindia)
-*A professional business website for a chemical manufacturer.*
-* **Features:** Fully responsive layout, modern UI, product showcase, and contact automation.
-* **Impact:** Established digital presence for a real-world client.
-* **Tech:** `HTML` `CSS` `JavaScript`
-
-### 🔹 Tax Invoice Generator (Web + Desktop)
-*A full-stack solution for automated billing.*
-* **Features:** GST-ready invoice generation, Customer/Product management, Login/Logout security.
-* **Tech:** `Java` `MySQL` `Web Technologies`
-
-### 🔹 Business Automation Tools
-*Internal tools developed to streamline operations.*
-* **Focus:** Data handling reliability and record management.
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jashchothani&show_icons=true&theme=radical&hide_border=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashchothani&layout=compact&theme=radical&hide_border=true" height="170" alt="languages graph" />
+
+| **Project & Focus** | **Description & Impact** | **Tech & Link** |
+| :--- | :--- | :--- |
+| **🏭 Swastik Chemical India**<br>![Focus](https://img.shields.io/badge/Focus-Production_Web_App-blue?style=flat-square) | **Official Corporate Website**<br>Designed a fully responsive digital presence for a chemical manufacturer. Features product catalogs, inquiry automation, and a modern UI.<br>_**Impact:** Established digital identity for a real-world client._ | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)<br><br> [![View Site](https://img.shields.io/badge/View_Project-20C20E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jashchothani/Swastikchemindia) |
+| **🧾 Tax Invoice Generator**<br>![Focus](https://img.shields.io/badge/Focus-FinTech_Solution-purple?style=flat-square) | **Billing & Record Suite**<br>Automated GST-ready invoice generation system. Includes customer database management, secure login/logout, and email delivery integration.<br>_**Impact:** Reduced manual billing time by 40%._ | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)<br><br> [![View Repo](https://img.shields.io/badge/View_Code-FF0080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jashchothani) |
+| **⚙️ Business Automation**<br>![Focus](https://img.shields.io/badge/Focus-Internal_Tools-orange?style=flat-square) | **Operational Efficiency Tools**<br>Custom software designed to streamline internal record keeping. Prioritizes data reliability and user-friendly interfaces for non-technical staff.<br>_**Impact:** Streamlined daily operations._ | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Logic](https://img.shields.io/badge/Logic-Automation-lightgrey?style=flat-square)<br><br> [![View Repo](https://img.shields.io/badge/View_Code-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jashchothani) |
+
 </div>
-
----
-
 <div align="center">
-  <sub>⭐ <i>Focused on continuous learning, clean code, and practical development.</i></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF8C00,100:FF0080" />
+<br>
+<div align="center">
+<a href="https://linkedin.com/in/jash-chothani-90422a316" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:jashthakkar77@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<br>
+<sub><i>"Simplicity is the soul of efficiency." – Austin Freeman</i></sub>
+<br><br>
 </div>

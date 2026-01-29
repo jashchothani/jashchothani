@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Jash%20Chothani&fontAlign=50&fontAlignY=35&fontSize=60&color=0:FF0080,50:7928CA,100:FF8C00&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Jash%20Bharat%20Chothani&fontAlign=50&fontAlignY=35&fontSize=60&color=0:FF0080,50:7928CA,100:FF8C00&fontColor=ffffff&animation=fadeIn" />
 
 <h3>
   🚀 Computer Science Student · Web Developer · Software Builder
